@@ -1,0 +1,22 @@
+{
+  "name": "play_with_github_actions",
+  "version": "1.0.0",
+  "description": "simple project to understand github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanPidkostelnyi/play_with_github_actions.git"
+  },
+  "author": "Roman Pidkostlenyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanPidkostelnyi/play_with_github_actions/issues"
+  },
+  "homepage": "https://github.com/RomanPidkostelnyi/play_with_github_actions#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
